@@ -1,0 +1,14 @@
+
+public class ArrayRetrieveExample {
+
+	public static void main(String[] args) {
+	int num[]= {10,20,30,40,50,45,23,56,78,98,43,12,43,21,56};
+	System.out.println("index position "+num[0]);
+	System.out.println("Size of array "+num.length);
+	System.out.println("retreive value using for loop");
+	for(int i=0;i<5;i++) {
+		System.out.println("Value is "+num[i]);
+	}
+	}
+
+}

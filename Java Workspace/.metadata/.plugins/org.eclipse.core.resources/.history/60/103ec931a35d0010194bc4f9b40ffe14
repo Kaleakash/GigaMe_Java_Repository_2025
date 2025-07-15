@@ -1,0 +1,11 @@
+
+public class ArrayExamples {
+
+	public static void main(String[] args) {
+	int a;
+	int abc[];		// array declaration 
+	//System.out.println(abc);
+	System.out.println(a);
+	}
+
+}
