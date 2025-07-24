@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.Car"/>
     <fullyQualifiedTypeName name="encapsulation.Employee"/>
+    <fullyQualifiedTypeName name="encapsulation.Product"/>
+    <fullyQualifiedTypeName name="polymorphism.Operation"/>
+    <fullyQualifiedTypeName name="polymorphism.Honda"/>
+    <fullyQualifiedTypeName name="polymorphism.Pulsar"/>
 </qualifiedTypeNameHistroy>
