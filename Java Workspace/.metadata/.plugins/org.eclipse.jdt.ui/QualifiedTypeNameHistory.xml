@@ -8,4 +8,7 @@
     <fullyQualifiedTypeName name="polymorphism.Operation"/>
     <fullyQualifiedTypeName name="polymorphism.Honda"/>
     <fullyQualifiedTypeName name="polymorphism.Pulsar"/>
+    <fullyQualifiedTypeName name="abstractkeyword.Honda"/>
+    <fullyQualifiedTypeName name="abstractkeyword.Pulsar"/>
+    <fullyQualifiedTypeName name="statickeyword.Employee"/>
 </qualifiedTypeNameHistroy>

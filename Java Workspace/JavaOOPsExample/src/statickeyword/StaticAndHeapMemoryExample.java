@@ -9,7 +9,7 @@ class Employee {
 	}
 }
 public class StaticAndHeapMemoryExample {
-
+	
 	public static void main(String[] args) {
 	Employee emp1  = new Employee(); // heap memory , id = 0;	
 	Employee emp2 = new Employee(); // heap memory , id =0;
