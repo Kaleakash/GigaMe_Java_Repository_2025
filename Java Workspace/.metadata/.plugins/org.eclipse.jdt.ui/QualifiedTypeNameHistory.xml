@@ -11,4 +11,10 @@
     <fullyQualifiedTypeName name="abstractkeyword.Honda"/>
     <fullyQualifiedTypeName name="abstractkeyword.Pulsar"/>
     <fullyQualifiedTypeName name="statickeyword.Employee"/>
+    <fullyQualifiedTypeName name="interfaceexample.Mno"/>
+    <fullyQualifiedTypeName name="interfaceexample.Test"/>
+    <fullyQualifiedTypeName name="com.college.Attendance"/>
+    <fullyQualifiedTypeName name="com.school.Attendance"/>
+    <fullyQualifiedTypeName name="com.college.Subject"/>
+    <fullyQualifiedTypeName name="com.bean.Employee"/>
 </qualifiedTypeNameHistroy>
