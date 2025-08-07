@@ -17,6 +17,13 @@
     <fullyQualifiedTypeName name="com.college.Subject"/>
     <fullyQualifiedTypeName name="com.bean.Employee"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.JobConditionException"/>
+    <fullyQualifiedTypeName name="threadclass.Task1"/>
+    <fullyQualifiedTypeName name="threadclass.Task2"/>
+    <fullyQualifiedTypeName name="implementsrunnable.Task1"/>
+    <fullyQualifiedTypeName name="game.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="booking.TicketBook"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
