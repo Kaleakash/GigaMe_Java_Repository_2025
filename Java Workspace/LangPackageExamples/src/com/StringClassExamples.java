@@ -13,17 +13,28 @@ public class StringClassExamples {
 		System.out.println(str1.substring(1));
 		System.out.println(str1.substring(1, 5));
 		System.out.println("--------------------");
+		
 		String name1 = "Ravi";		// fresh memory created.
 		String name2 = "Ravi";		// name1 and name2 link to same memory string pooling 
 		String name3 = new String("Ravi");	// new memory 
 		String name4 = new String("Ravi");	// new memory 
+		// == : it check value as well as reference or memory code 
+		// equals : it check only value not reference code. 
+		if(name3.equals(name4)) {
+			System.out.println("equal");
+		}else {
+			System.out.println("not equals");
+		}
+		
 		System.out.println(name2);
 		name2 = "Ravi Kumar";
 		
-		System.out.println(name2);
-		System.out.println(name2.toUpperCase());
-		System.out.println(name2);
-		System.out.println("string buffer or string builder");
+			System.out.println(name2);
+				System.out.println(name2.toUpperCase());
+				System.out.println(name2);
+				
+		System.out.println("string buffer or string builder - mutable string class ");
+		
 		StringBuffer sb = new StringBuffer("Ravi");
 		System.out.println(sb);
 			System.out.println(sb.append(" Kumar"));
